@@ -1,1 +1,2 @@
 # Apk para el monitoreo de una junta de vecinos 
+# Centralizar información de reuniones, deudas, asistencia e información de los vecinos dueños e inquilinos.
